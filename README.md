@@ -98,10 +98,6 @@ Flask-Todo-Webapp/
 └── instance/
     └── todo.db           # SQLite database (auto-generated)
 ```
-<<<<<<< HEAD
-
-=======
->>>>>>> 3836aff0018e9a20d90612951c9ca14d8a86d7d3
 ---
 
 ## 📄 License

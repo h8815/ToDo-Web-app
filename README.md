@@ -1,3 +1,8 @@
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+
+---
+
 # 📝 MyTodo – Flask Web App
 
 **MyTodo** is a sleek and minimal to-do list manager built with **Flask** and **Bootstrap 5**. It provides essential task management features with user authentication, making it perfect for personal productivity.

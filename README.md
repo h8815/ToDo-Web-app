@@ -37,7 +37,7 @@
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/h8815/Flask-Todo-Webapp.git
+   git clone https://github.com/h8815/ToDo-Web-app.git
    cd Flask-Todo-Webapp
    ```
 

@@ -99,12 +99,10 @@ ToDO/
 ├── Dockerfile         # Docker build instructions
 ├── Jenkinsfile        # Jenkins CI/CD pipeline
 ├── render.yaml        # Render deployment config
-│
 ├── templates/         # Jinja2 HTML templates
 ├── static/            # CSS, JS, and static assets
 ├── instance/
 │   └── todo.db        # SQLite database (auto-generated)
-│
 └── README.md          # Project documentation
 ```
 

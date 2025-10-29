@@ -5,10 +5,6 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 
-## 🚀 Live Demo
-
-👉 Try it out: [[https://todo-web-app-1.onrender.com](https://todo-list-gcpj.onrender.com)]
-
 ---
 
 ## ✅ Features
